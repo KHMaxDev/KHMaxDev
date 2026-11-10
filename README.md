@@ -3,7 +3,7 @@
 <h3 align="center">Full-Stack Web Developer | Backend Development | Creative Web Experiences</h3>
 
 <p align="center">
-  📍 Chetumal, Quintana Roo, Mexico
+  📍Quintana Roo, Mexico
 </p>
 
 <p align="center">
